@@ -262,9 +262,9 @@ CALCULATE(
 
 **Abdallah Ibrahim**
 - 🎓 Data Science Student
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
-- 🐙 [GitHub](https://github.com/YOUR-USERNAME)
-- 📧 [your.email@example.com](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdallah-ibrahim-mohamed-4556792a5)
+- 🐙 [GitHub](https://github.com/abdallahebrahim785)
+- 📧 [your.email@example.com](abdallahebrahim785@gmail.com)
 
 ---
 
