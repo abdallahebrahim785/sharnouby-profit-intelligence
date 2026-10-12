@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.pickle
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data (large files)
+dfs_clean.pkl
+dfs_raw.pkl
+*.zip
+*.tar.gz
+*.rar
+
+# Power BI temp
+~*.pbix
+*.pbix.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Secrets
+.env
+secrets.json
+api_keys.txt
