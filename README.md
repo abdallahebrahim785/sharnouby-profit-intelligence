@@ -76,27 +76,6 @@ Total Opportunity:   +26.9M EGP
 Growth Rate:         +41%
 ```
 
----
-
-## 📊 Dashboard Structure
-
-The Power BI dashboard includes **4 interconnected pages** built on a star schema:
-
-### 📄 Page 1: Executive Overview
-![Page 1](dashboard/dashboard_screenshots/page1_overview.png)
-*Overview of revenue, profit, channel distribution, and loss analysis.*
-
-### 📄 Page 2: Customer RFM
-![Page 2](dashboard/dashboard_screenshots/page2_customer.png)
-*Customer segmentation (Champions, Loyal, At Risk, Lost) with complete Champions list.*
-
-### 📄 Page 3: Channel & Location
-![Page 3](dashboard/dashboard_screenshots/page3_channel.png)
-*Channel margin comparison, top governorates, and geographic performance.*
-
-### 📄 Page 4: Profit Intelligence
-![Page 4](dashboard/dashboard_screenshots/page4_intelligence.png)
-*Actionable recommendations with impact simulation and priority matrix.*
 
 ---
 
